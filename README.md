@@ -1,6 +1,6 @@
 # Hi i´m Cesar 👋
 
-![header](brycezusan/brycezusan/github-header-image.png)
+![header](github-header-image.png)
 
 
 <!--
