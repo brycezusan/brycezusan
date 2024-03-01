@@ -1,7 +1,7 @@
 # Hi I'm Cesar ✨
  <img src="https://media0.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
-![header](brycezusan/brycezusan/github-header-image.png)
 
+![banner de brycezusan](github-header-image.png)
 
 <!--
 **brycezusan/brycezusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
