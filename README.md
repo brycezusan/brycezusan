@@ -1,5 +1,3 @@
-# Hi i´m Cesar 👋
-
 ![header](github-header-image.png)
 
 
