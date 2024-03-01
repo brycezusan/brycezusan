@@ -1,4 +1,7 @@
-### Hi there 👋
+# Hi i´m Cesar 👋
+
+![header](brycezusan/brycezusan/github-header-image.png)
+
 
 <!--
 **brycezusan/brycezusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
