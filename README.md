@@ -1,7 +1,11 @@
 # Hi I'm Cesar ✨
 ![banner de brycezusan](github-header-image.png)
 
- <img src="https://media0.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>Learning programming 
+ <img src="https://media0.giphy.com/media/M4NykXxUE0HAcK7UJ6/giphy.gif" width="100"/>
+
+ ![LinkedIn](https://img.shields.io/badge/linkedin-%230077B5.svg?style=for-the-badge&logo=linkedin&logoColor=white)
+ ![X](https://img.shields.io/badge/X-%23000000.svg?style=for-the-badge&logo=X&logoColor=white)
+ ![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?style=for-the-badge&logo=YouTube&logoColor=white)
 <!--
 **brycezusan/brycezusan** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
